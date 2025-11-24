@@ -53,23 +53,9 @@ The primary goal of this internship was to strengthen:
 
 If you would like to connect or view more work:
 
-* **GitHub**: [[https://github.com/](https://github.com/AshaJyothiv/)
+* **GitHub**: [https://github.com/](https://github.com/AshaJyothiv/)
 * **LinkedIn**: [www.linkedin.com/in/ashaveluvarthi/](https://www.linkedin.com/in/ashaveluvarthi/)
 
 ---
 
 Thank you for visiting this repository!
-
-```
-
----
-
-### If you want, I can:
-
-✔ Add individual **project preview screenshots**  
-✔ Add **live demo links** (after GitHub Pages deployment)  
-✔ Replace `<username>` with your actual GitHub username  
-✔ Make the README more visually branded (badges, icons, table layout)
-
-Just tell me — would you like a **more stylish and branded** version? 🚀
-```
